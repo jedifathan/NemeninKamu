@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project RPL/app/src/main/res/drawable-v24/ic_line.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_artikel.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_calendar.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_chat_logo.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_informasi.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_konsultasi.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_person.xml" value="0.352" />
+        <entry key="..\:/Project RPL/app/src/main/res/drawable/mybutton.xml" value="0.352" />
         <entry key="..\:/Project RPL/app/src/main/res/layout/activity_landing.xml" value="0.36666666666666664" />
         <entry key="..\:/Project RPL/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Project RPL/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
