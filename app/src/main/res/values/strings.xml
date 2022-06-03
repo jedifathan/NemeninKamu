@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nemenin Kamu</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="signup">Daftar</string>
+    <string name="loginhere">Sudah punya akun? <u>Masuk</u></string>
+    <string name="signuphere">Buat akun baru? <u>Daftar</u></string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="salam">Halo, senang kembali berjumpa denganmu</string>
+    <string name="desc">logo nemenin kamu</string>
+    <string name="chat">Chat</string>
+    <string name="informasi">informasi</string>
+    <string name="tips_and_trick">Tips & Trick</string>
+    <string name="akun">Akun</string>
+    <string name="artikel">artikel</string>
+    <string name="konsultasi">Konsultasi</string>
+</resources>
