@@ -3,25 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Project RPL/app/src/main/res/drawable-v24/ic_line.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_artikel.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_calendar.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_chat_logo.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_informasi.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_konsultasi.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/ic_person.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/drawable/mybutton.xml" value="0.352" />
-        <entry key="..\:/Project RPL/app/src/main/res/layout/activity_landing.xml" value="0.36666666666666664" />
-        <entry key="..\:/Project RPL/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
-        <entry key="..\:/Project RPL/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/daftar_button.xml" value="0.156" />
         <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.1855" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/ic_chat_logo.xml" value="0.2265" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/ic_line.xml" value="0.1045" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/ic_pass.xml" value="0.2265" />
         <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/ic_user.xml" value="0.1855" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/main_button.xml" value="0.1045" />
         <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/mybutton.xml" value="0.1855" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/drawable/rectangle2.xml" value="0.2265" />
         <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/font/asap.xml" value="0.14322916666666666" />
-        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_login.xml" value="0.264" />
-        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_akun.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_artikel.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_consult.xml" value="0.4" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_info.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_konsultasi.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_landing.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_my_button.xml" value="0.17708333333333334" />
         <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/layout/activity_tips.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/Login-Register-in-Android-Complete-Source-Code/Login Register in Android - Complete Source Code/Login-Register-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>

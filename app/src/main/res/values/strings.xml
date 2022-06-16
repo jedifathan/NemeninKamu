@@ -18,4 +18,27 @@
     <string name="artikel">artikel</string>
     <string name="konsultasi">Konsultasi</string>
     <string name="landing_logo">TODO</string>
+    <string name="garis">garis</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nomor_whatsapp">Nomor WhatsApp</string>
+    <string name="ttl">Tempat, Tanggal Lahir</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="daftar_konsultasi">Daftar Konsultasi</string>
+    <string name="tanggal_konsultasi">Tanggal Konsultasi</string>
+    <string name="daftar">Daftar</string>
+    <string name="fulani">Fulani</string>
+    <string name="foto">foto</string>
+    <string name="tipeakun">Tipe Akun</string>
+    <string name="simpan">Simpan Perubahan</string>
+    <string name="judulArtikel">Dampak Psikologis Akibat Pandemi Covid-19</string>
+    <string name="namapenulis">Fulani</string>
+    <string name="tanggalArtikel">19 Desember 2020</string>
+    <string name="artikel1"><br>Covid-19 telah meningkatkan kecemasan banyak orang. Para ahli memperingatkan bahwa sebagian kecil orang bisa mengalami masalah kesehatan mental yang berkepanjangan, lebih lama dari pandemi itu sendiri.\n\n</br><br>Dari makan di restoran bersama pasangan dan kerabatnya hingga menghadiri klub buku bersama teman-teman, kehidupan sosial Susan Kemp sebelum Covid-19 cukup aktif.\n\n</br>Namun sejak April 2020, dia hanya lima kali meninggalkan apartemennya di dekat Stockholm, karena merasakan kecemasan sosial dan perilaku obsesif terkait kuman.</string>
+    <string name="judulTips">Tips Membangun Kebiasaan Baru Agar Semakin Produktif</string>
+    <string name="tanggaltips">6 Maret 2022</string>
+    <string name="tips1"><br>Saat tahun baru, biasanya banyak orang membuat resolusi tahun baru. Resolusi tahun baru ini bertujuan untuk membangun kebiasaan baik dan menghilangkan kebiasaan buruk. Contohnya, memulai hidup sehat, menjadi lebih produktif, atau mengurangi main media sosial.\n\n</br><br>Membentuk sebuah resolusi yang bisa menjadi kebiasaan ini dapat memberikan banyak keuntungan. Salah satunya, kita jadi bisa melakukan suatu perilaku secara otomatis tanpa perlu mengerahkan energi fisik dan mental yang terlalu besar. Hal ini juga memungkinkan kita untuk mencapai tujuanmu seperti lebih produktif dan lebih sehat.\n\n</br>Masalahnya, membentuk kebiasaan ini cukup tricky dan membutuhkan konsistensi. Menurut penelitian yang dilakukan di Edith Cowan University, resolusi tahun baru milik kebanyakan orang cuma bertahan sampai beberapa minggu aja. Penelitian lainnya juga mengatakan kalau cuma 8% orang yang berhasil menjalankan resolusi tahun barunya. Sayang sekali ya. Supaya kamu bisa membuat kebiasaan baru ini bertahan lama, simak tulisannya sampai selesai, ya!</string>
+    <string name="info1">Istilah “kesehatan mental” diambil dari konsep mental hygiene. Kata mental diambil dari bahasa Yunani, pengertiannya sama dengan psyche dalam bahasa Latin yang artinya psikis, jiwa atau kejiwaan. <u>(Cont)</u></string>
+    <string name="judulinfo">Webinar Nasional Mental Health Matters</string>
+    <string name="tanggalInfo">17-18 Juli 2020</string>
+
 </resources>

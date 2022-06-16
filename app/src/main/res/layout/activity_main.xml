@@ -12,7 +12,7 @@
         android:layout_width="120dp"
         android:layout_height="90dp"
         android:layout_marginEnd="40dp"
-        android:background="@drawable/button_main"
+        android:background="@drawable/main_button"
         android:drawableTop="@drawable/ic_artikel"
         android:fontFamily="@font/poppinsmedium"
         android:paddingTop="10dp"
@@ -20,8 +20,8 @@
         android:textColor="#FAFAFA"
         app:layout_constraintBottom_toTopOf="@+id/buttonAkun"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button5"
-        app:layout_constraintVertical_bias="0.404" />
+        app:layout_constraintTop_toBottomOf="@+id/buttonKonsultasi"
+        app:layout_constraintVertical_bias="0.493" />
 
     <Button
         android:id="@+id/buttonAkun"
@@ -29,7 +29,7 @@
         android:layout_height="90dp"
         android:layout_marginEnd="40dp"
         android:layout_marginBottom="148dp"
-        android:background="@drawable/button_main"
+        android:background="@drawable/main_button"
         android:drawableTop="@drawable/ic_person"
         android:fontFamily="@font/poppinsmedium"
         android:paddingTop="10dp"
@@ -39,12 +39,12 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/buttonKonsultasi"
         android:layout_width="120dp"
         android:layout_height="90dp"
         android:layout_marginTop="236dp"
         android:layout_marginEnd="44dp"
-        android:background="@drawable/button_main"
+        android:background="@drawable/main_button"
         android:drawableTop="@drawable/ic_konsultasi"
         android:fontFamily="@font/poppinsmedium"
         android:paddingTop="5dp"
@@ -70,13 +70,13 @@
         android:layout_width="120dp"
         android:layout_height="90dp"
         android:layout_marginTop="236dp"
-        android:background="@drawable/button_main"
+        android:background="@drawable/main_button"
         android:drawableTop="@drawable/ic_chat_logo"
         android:fontFamily="@font/poppinsmedium"
         android:paddingTop="10dp"
         android:text="@string/chat"
         android:textColor="#FAFAFA"
-        app:layout_constraintEnd_toStartOf="@+id/button5"
+        app:layout_constraintEnd_toStartOf="@+id/buttonKonsultasi"
         app:layout_constraintHorizontal_bias="0.317"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -86,7 +86,7 @@
         android:layout_width="120dp"
         android:layout_height="90dp"
         android:layout_marginStart="40dp"
-        android:background="@drawable/button_main"
+        android:background="@drawable/main_button"
         android:drawableTop="@drawable/ic_calendar"
         android:fontFamily="@font/poppinsmedium"
         android:paddingTop="5dp"
@@ -103,7 +103,7 @@
         android:layout_height="90dp"
         android:layout_marginStart="40dp"
         android:layout_marginBottom="148dp"
-        android:background="@drawable/button_main"
+        android:background="@drawable/main_button"
         android:drawableTop="@drawable/ic_informasi"
         android:fontFamily="@font/poppinsmedium"
         android:paddingTop="10dp"
@@ -126,5 +126,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.086"
         app:srcCompat="@drawable/ic_line" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
